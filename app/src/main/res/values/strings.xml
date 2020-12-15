@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Brain Trainee</string>
+    <string name="go">Go!</string>
+    <string name="time">30s</string>
+    <string name="point">0/0</string>
+    <string name="sum">10 + 13</string>
+    <string name="th">3</string>
+    <string name="correct">Correct</string>
+    <string name="playagain">Play Again</string>
+</resources>
